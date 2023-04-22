@@ -1,0 +1,29 @@
+h1{
+  text-align:center;
+  color:white;
+}
+body{
+ background:linear-gradient(to right,#6af3f7,#28aaad,#15898c,#095759);
+}
+
+img{
+  height:275px;
+}
+
+a{
+  text-decoration:none;
+  text-align:center;
+  color:#222;
+}
+
+  h2{
+  text-decoration:none;
+  text-align:center;
+  color:#222;
+}
+h2:hover{
+color:red;
+}
+#link{
+  width:100%;
+}
